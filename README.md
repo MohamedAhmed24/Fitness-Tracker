@@ -1,5 +1,5 @@
 # Fitness-Tracker
-  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/undefined/Fitness-Tracker)
+  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/MohamedAhmed24/Fitness-Tracker)
   
   # Description
   An app that helps you track your workouts
