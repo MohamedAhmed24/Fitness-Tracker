@@ -12,7 +12,7 @@ const excerciseTracking = new Schema({
           type: {
             type: String,
             trim: true,
-            required: "Enter a type of Excercise!"
+            required: "Enter a type of exercise!"
           },
           name: {
             type: String,
